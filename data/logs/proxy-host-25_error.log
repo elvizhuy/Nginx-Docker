@@ -1,0 +1,1 @@
+2023/11/23 04:51:19 [error] 236#236: *6890 upstream timed out (110: Connection timed out) while connecting to upstream, client: 183.91.15.7, server: chathdsd-rasa.ivirse.com, request: "OPTIONS /model/parse HTTP/2.0", upstream: "http://103.9.211.108:8012/model/parse", host: "chathdsd-rasa.ivirse.com", referrer: "https://ivivi-instructions-bot.ivirse.com/"
