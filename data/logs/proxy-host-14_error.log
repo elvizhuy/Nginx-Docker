@@ -1,0 +1,1 @@
+2023/11/24 23:53:32 [warn] 719#719: *77446 using uninitialized "server" variable while logging request, client: 199.45.154.50, server: chatbot-api.ivirse.com, request: "GET / HTTP/1.1", host: "chatbot-api.ivirse.com:443"
