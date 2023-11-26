@@ -1,7 +1,9 @@
 version: '3'
 services:
   app:
-    image: nguyenngochuy/nginx-proxy-manager
+    image: 'jc21/nginx-proxy-manager:latest'
+    # image: nguyenngochuy/nginx-proxy-manager
+
     restart: always
     container_name: nginx-app
     ports:
