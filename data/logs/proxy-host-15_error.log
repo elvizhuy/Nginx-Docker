@@ -1,1 +1,0 @@
-2023/11/24 10:02:48 [warn] 530#530: *24575 using uninitialized "server" variable while logging request, client: 199.45.154.50, server: integration.ivirse.com, request: "GET / HTTP/1.1", host: "integration.ivirse.com:443"

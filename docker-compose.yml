@@ -5,7 +5,7 @@ services:
     image: nguyenngochuy/nginx-proxy-manager
 
     restart: always
-    container_name: nginx-app
+    container_name: nginx
     ports:
       - '80:80'
       - '81:81'
